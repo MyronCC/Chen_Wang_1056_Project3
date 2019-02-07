@@ -1,0 +1,198 @@
+@charset "UTF-8";
+
+.hidden
+{
+	display: none;
+}
+
+
+#container
+{
+	width: 960px;
+	margin: 0 auto;
+}
+
+p
+{
+	color: #fff;
+	background: #000;
+	text-align: center;
+}
+
+header
+{
+	height: 215px;
+
+}
+
+#mainHeader
+{
+	height: 170px;
+	display: flex;
+	flex-direction: row;
+}
+
+#logo
+{
+	margin-top: 25px;
+	margin-left: 80px;
+	width: 120px;
+	height: 120px;
+	background-color: #000;
+}
+
+#logo p
+{
+	line-height: 120px;
+}
+
+#searchBar
+{
+	margin-left: 280px;
+	margin-top: 70px;
+	width: 400px;
+	height: 30px;
+	background-color: #000;
+}
+
+#searchBar p
+{
+	line-height: 30px;
+}
+
+#mainNav
+{
+	width: 960px;
+	height: 45px;
+	background-color: #000;
+}
+
+#mainNav
+{
+	line-height: 45px;
+}
+
+#mainBody
+{
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-top: 30px;
+	margin-bottom: 55px;
+}
+
+footer
+{
+	height: 240px;
+	background-color: #000;
+	line-height: 200px;
+}
+
+/* about */
+
+#about
+{
+	height: 350px;
+	background-color: #000;
+	
+
+}
+
+#about p
+{
+	line-height: 350px;
+}
+
+#memberDetail
+{
+	margin-top: 45px;
+	height: 220px;
+	background-color: #000;
+}
+
+#memberDetail p
+{
+	line-height: 200px;
+
+}
+
+#supportBusiness
+{
+	margin-top: 45px;
+	height: 270px;
+	background-color: #000;
+}
+
+#supportBusiness p
+{
+	line-height: 250px;
+}
+
+/* index */
+#banner
+{
+	height: 420px;
+	background-color: #8c8c8c;
+}
+
+#banner p
+{
+	background-color: #8c8c8c;
+	line-height: 420px;
+}
+
+#events
+{
+	padding-top: 10px;
+	height: 500px;
+	background-color: #000;
+}
+
+#events p
+{
+	background-color: #8c8c8c;
+	line-height: 130px;
+}
+
+#firstRow
+{
+	display: flex;
+	flex-direction: row;
+	padding-top: 60px;
+}
+
+#secondRow
+{
+	display: flex;
+	flex-direction: row;
+	padding-top: 45px;
+}
+
+.leftEvent
+{
+	height: 140px;
+	width: 360px;
+	background-color: #8c8c8c;
+	margin-right: 140px;
+}
+
+.rightEvent
+{
+	height: 140px;
+	width: 360px;
+	background-color: #8c8c8c;
+}
+
+#more
+{
+	margin-top: 55px;
+	margin-left: 310px;
+	height: 60px;
+	width: 240px;
+	background-color: #8c8c8c;
+	
+}
+
+#more p
+{
+	line-height: 60px;
+}
